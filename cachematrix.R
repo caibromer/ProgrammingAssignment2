@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Matrix inversion is usually a costly computation. This script is designed to check that
+## the inverse of matrix is not in cache before calculating. It aims to improve efficiency.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
